@@ -60,3 +60,5 @@ summary(hf$Total.Assisted.Units) #uygun fiyatlı konut
 plot( hf$Total.Assisted.Units, hf$Percent.Affordable,xlim=c(-5,30000), 
      ylim=c(-5,50), xlab="Desteklenen Konut", ylab="Uygun Fiyatlı Konut")
 
+print("merhaba")
+
